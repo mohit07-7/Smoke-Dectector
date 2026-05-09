@@ -15,7 +15,7 @@ The robot automatically detects and moves toward fire and activates the water pu
 
 ---
 
-# Features ✨
+# Features 
 
 - 🔥 Flame Detection
 - 🌫 Smoke Detection
